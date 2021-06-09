@@ -1,4 +1,4 @@
-update=ven 4 giu 2021, 15:37:45
+update=Wed 09 Jun 2021 23:14:23 CEST
 version=1
 last_client=kicad
 [general]
@@ -41,7 +41,7 @@ MinHoleToHole=0.25
 TrackWidth1=0.25
 TrackWidth2=0.25
 TrackWidth3=0.5
-ViaDiameter1=0.8
+ViaDiameter1=0.6
 ViaDrill1=0.4
 dPairWidth1=0.2
 dPairGap1=0.25
@@ -241,8 +241,19 @@ Enabled=0
 Name=Default
 Clearance=0.2
 TrackWidth=0.25
-ViaDiameter=0.8
+ViaDiameter=0.6
 ViaDrill=0.4
+uViaDiameter=0.3
+uViaDrill=0.1
+dPairWidth=0.2
+dPairGap=0.25
+dPairViaGap=0.25
+[pcbnew/Netclasses/1]
+Name=Powah
+Clearance=0.2
+TrackWidth=0.5
+ViaDiameter=0.8
+ViaDrill=0.6
 uViaDiameter=0.3
 uViaDrill=0.1
 dPairWidth=0.2
